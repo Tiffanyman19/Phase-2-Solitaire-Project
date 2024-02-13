@@ -8,7 +8,7 @@ function GameType({ type, heading }) {
       <div className="gametype">
         <img
           className="gametype__image"
-          src={`https://raw.githubusercontent.com/ashish0910/React-Solitaire/main/src/assets/${type}.png`}
+          src={`https://raw.githubusercontent.com/Tiffanyman19/Phase-2-Solitaire-Project/main/src/assets/${type}.png`}
         />
         <div className="gametype__link">
           <h3> {heading} Solitaire </h3>
