@@ -41,3 +41,5 @@ Spider Soliaire For One Suite and Four Suite(https://www.spider-palace.com/how-t
         allyay ardscay ofyay ayay equencesay ustmay ebay ofyay ethay amesay uitsay . 
         eachyay equencesay ustmay ontaincay oneyay ardcay ofyay eachyay ankray . 
         ethay anksray inyay eachyay equencesay ustmay ebay ortedsay andyay ompletecay asyay follows: ingkay , ueenqay , ackjay , 10 , 9 , 8 , 7 , 6 , 5 , 4 , 3 , 2 . ouyay inishfay ethay equencesay ithway anyay aceyay .
+
+I want to thank Austin, Mohammad, Kirstyn, and our instructor, Sakib!

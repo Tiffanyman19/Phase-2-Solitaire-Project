@@ -49,3 +49,13 @@ code {
   opacity: 0.01;
   transition: opacity 300ms ease-in;
 }
+
+input {
+  padding: 0.25rem;
+  border: none;
+  font-family: inherit;
+  font-size: 1.2em;
+  border-bottom: 2px solid gray;
+  transition: all 0.2s;
+  width: 100%;
+}

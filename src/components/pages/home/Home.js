@@ -3,6 +3,7 @@ import Header from "./Header";
 import GameTypeWrapper from "./GameTypeWrapper";
 import GameType from "./GameType";
 import ScreenSizeWarn from "../../ScreenSizeWarn";
+import NewUserForm from "../../../form";
 
 function Home() {
   return (
